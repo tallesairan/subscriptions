@@ -1,18 +1,18 @@
 {
-    "name": "Codeassasin/Subscriptions",
+    "name": "codeassasin/subscriptions",
     "type": "library",
-    "description": ":package_description",
+    "description": "Laravel Subscriptions Package",
     "keywords": [
         "Codeassasin",
         "Subscriptions"
     ],
-    "homepage": "https://github.com/Codeassasin/Subscriptions",
+    "homepage": "https://gitlab.com/Codeassasin/Subscriptions",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "Gerhard Theunissen",
+            "email": "gerhard@ccom.co.za",
+            "homepage": "https://ccom.co.za",
             "role": "Developer"
         }
     ],
