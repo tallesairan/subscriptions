@@ -1,5 +1,5 @@
 {
-    "name": "codeassasin/subscriptions",
+    "name": "tallesairan/subscriptions",
     "type": "library",
     "description": "Laravel Subscriptions Package",
     "keywords": [
@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "illuminate/support": "~5.1",
+        "illuminate/support": "~9.0.0",
         "php" : "~5.6|~7.0"
     },
     "require-dev": {
